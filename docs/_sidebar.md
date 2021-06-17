@@ -1,5 +1,4 @@
-- GIT
-  - [配置SSH](git/ssh.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+* [配置SSH](git/ssh)
+- [Writing more pages](more-pages.md)
+- [Custom navbar](custom-navbar.md)
+- [Cover page](cover.md)
