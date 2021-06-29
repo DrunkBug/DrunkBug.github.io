@@ -1,4 +1,4 @@
 * [配置SSH](git/ssh)
-- [Writing more pages](more-pages.md)
+- [Java](java/spring)
 - [Custom navbar](custom-navbar.md)
 - [Cover page](cover.md)
