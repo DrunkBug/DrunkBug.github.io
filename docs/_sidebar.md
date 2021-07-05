@@ -1,4 +1,5 @@
-* [配置SSH](git/ssh)
-- [Java](java/spring)
-- [Custom navbar](custom-navbar.md)
+- [配置SSH](git/ssh)  
+* Java  
+    - [spring](java/spring)
+- [数据库](sql/sql)
 - [Cover page](cover.md)

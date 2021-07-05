@@ -9,3 +9,7 @@
 - AOP  
  AOP就是面向切面编程。如右面的图，一般程序执行流程是从controller层调用service层、然后service层调用DAO层访问数据，最后在逐层返回结果。
 AOP以功能进行划分，对服务顺序执行流程中的不同位置进行横切，完成各服务共同需要实现的功能。
+- Spring容器  
+用于存储JavaBean对象的容器.
+- BeanFactory  
+BeanFactory是一个接口，需要创建继承的子类对象。
