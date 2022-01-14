@@ -2,4 +2,4 @@
 * Java  
     - [spring](java/spring)
 - [数据库](sql/sql)
-- [Cover page](cover.md)
+- [Linux](linux/宝塔.md)
