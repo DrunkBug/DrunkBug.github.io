@@ -2,4 +2,6 @@
 * Java  
     - [spring](java/spring)
 - [数据库](sql/sql)
-- [Linux](linux/宝塔.md)
+* linux
+    - [宝塔 ](linux/宝塔.md)
+    - [IPV6 VPS](linux/ipv6.md)
